@@ -24,7 +24,7 @@ export default function Home() {
 
         <p className="pt-2 text-xs">아이템은 알아서 가져가시기 바랍니다.</p>
 
-        <div className="pt-3">
+        <div className="pt-4">
           <p>그동안 사랑해주신 여러분께 감사드리며,</p>
           <p>재미있고 유익한 서비스로 다시 찾아 뵙겠습니다.</p>
         </div>
