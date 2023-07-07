@@ -10,6 +10,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="ko">
       <head>
         <title>서비스 종료 안내</title>
+        <meta charSet="utf-8" />
         <meta property="og:title" content="ℂ𝕠𝕣𝕖 𝕂𝕖𝕖𝕡𝕖𝕣 서버 종료 안내" />
         <meta
           property="og:description"
